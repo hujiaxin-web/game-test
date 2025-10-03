@@ -1,4 +1,4 @@
 创建一个新的cocos项目，运行一次使其proj.win32里生成Debug.win32文件
 然后替换我的classes文件和把Pixel Classic Cards放到proj.win32/Debug.win32/里
 在代码里点击src添加现有项Brand.cpp和Brand.h之后就可以正常运行了
-我github用命令上次大型文件这里有问题没法把项目直接全部上传，所以就把关键文件上传了
+我github用命令上传大型文件这里有问题没法把项目直接全部上传，所以就把关键文件上传了
